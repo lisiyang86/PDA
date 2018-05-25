@@ -102,5 +102,27 @@
 .primary_button {
   color:#FFFFFF;
 }
+.link_button {
+  color:#169BD5;
+}
 .image {
+}
+.button {
+}
+.paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.shape {
+}
+.image1 {
+  color:#000000;
+}
+.vertical_line {
 }
